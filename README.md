@@ -1,0 +1,2 @@
+# OthelloGame
+class project
