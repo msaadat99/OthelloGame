@@ -23,7 +23,7 @@ public class HibernateUtil {
 					.configure() // configures settings from hibernate.cfg.xml
 					.build();
 			 
-			 log.info("BBBBBBBBBBB");
+			
 			try {
 				
 				log.info("XXXXFFFFF");
